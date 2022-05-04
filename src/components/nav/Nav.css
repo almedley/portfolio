@@ -1,0 +1,17 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: grey;
+    padding: 5px;
+}
+
+.nav_links {
+    display: flex;
+    gap: 1.0rem;
+    margin-right: 15px;
+}
+
+.nav_title {
+    margin-left: 15px;
+}
